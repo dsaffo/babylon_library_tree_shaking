@@ -10,7 +10,7 @@ A repo to help dedug the issue of treeshaking vs core imports discussed here: ht
 
 # How to use
 
-I recommend using github code spaces to replicate the exact env
+I recommend using github code spaces to replicate the exact env. It can be started by click the green 'code' button at the top and switching to the codespaces tab.
 
 - cd into test_library in the console and run 'npm run build' to compile the library
 
